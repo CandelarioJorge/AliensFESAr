@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "JuegoHalloweenDos",
+"productVersion": "0.1",
+"dataUrl": "19092021.data.unityweb",
+"wasmCodeUrl": "19092021.wasm.code.unityweb",
+"wasmFrameworkUrl": "19092021.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
